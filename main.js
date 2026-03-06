@@ -1,0 +1,6 @@
+
+
+init();
+
+console.log('ok');
+
