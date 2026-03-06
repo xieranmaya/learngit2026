@@ -2,5 +2,8 @@
 
 init();
 
-console.log('ok');
+console.log('okkk');
 
+foo()
+
+BarProp()
