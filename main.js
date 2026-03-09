@@ -1,9 +1,9 @@
-"use strict";
+"use strict";aaa
 
 init();
 
 console.log('okkk');
 safwef
-foo()
+foo()aaaaa
 
 BarProp()
