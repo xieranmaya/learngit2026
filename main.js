@@ -7,3 +7,8 @@ safwef
 foo()aaaaa
 
 BarProp()
+
+aaaaa
+addEventListeneraa
+addEventListeneraaa
+aaaaaa
