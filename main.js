@@ -1,4 +1,4 @@
-999"use strict";aaa
+000"use strict";aaa
 
 init();
 
